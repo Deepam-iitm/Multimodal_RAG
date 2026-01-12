@@ -23,6 +23,7 @@ This project uses OpenAI's CLIP for unified cross-modal embeddings and Google's 
 
 🚀 Getting Started
 1. Clone the repository
+   * `git clone https://github.com/Deepam-iitm/Multimodal_RAG.git`
 2. Create a virtual environment
    * `python -m venv venv`
 4. Install dependencies
